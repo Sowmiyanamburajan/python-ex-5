@@ -1,0 +1,28 @@
+Python 3.5.3 (v3.5.3:1880cb95a742, Jan 16 2017, 15:51:26) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:/Users/TEMP.VCET.006/fibonacci series.py ============
+enter terms10
+fibonacci sequence:
+0
+-1
+-1
+-2
+-3
+-5
+-8
+-13
+-21
+-34
+>>> 
+============ RESTART: C:/Users/TEMP.VCET.006/fibonacci series.py ============
+enter terms
+============== RESTART: C:/Users/TEMP.VCET.006/get full name.py ==============
+enter a firstname sowmiya
+enter a secondnamenamburajan
+name is:  sowmiyanamburajan
+>>> 
+=============== RESTART: C:/Users/TEMP.VCET.006/conversion.py ===============
+enter hrs:6
+there are 360.0 minutes in 6.0 hrs
+>>> 
